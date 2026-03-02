@@ -5,7 +5,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## 🖥️ Preview
-Acesse o projeto online: [devablsouza.github.io/auth-vanguard-tailwind-ui/](https://devablsouza.github.io/auth-vanguard-tailwind-ui/)
+Acesse o projeto online: [auth-vanguard-tailwind-ui.vercel.app](https://auth-vanguard-tailwind-ui.vercel.app/)
 
 ## 🏗 Architecture Overview
 Esta solução utiliza uma abordagem **Utility-First** com a engine Tailwind CSS v4. O layout é construído sobre um sistema de **Flexbox adaptativo**, alternando entre fluxos verticais (mobile) e horizontais (desktop) para otimizar a experiência do usuário em diferentes viewports.
